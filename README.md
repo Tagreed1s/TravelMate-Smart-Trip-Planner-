@@ -13,4 +13,5 @@ A smart travel application that helps users discover destinations, plan personal
 - Saved Trips
 
 # Tech Stack
-- To be determined.
+- Android Studio
+- Kotlin
