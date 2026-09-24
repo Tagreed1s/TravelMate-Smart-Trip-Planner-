@@ -1,13 +1,16 @@
-# CareQueue-Smart-Patient-Waiting-Experience
-A smart healthcare application for managing appointments, medical records, and hospital queues.
+# TravelMate – Smart Trip Planner
+
+A smart travel application that helps users discover destinations, plan personalized trips, and estimate travel costs in one place.
 
 # Features
 - User Registration & Login
-- Appointment Booking
-- Appointment Management
-- Smart Queue
-- Medical Records
-- Notifications
+- Destination Exploration
+- Trip Planner
+- Daily Itinerary
+- Trip Cost Calculator
+- Favorites
+- Interactive Map
+- Saved Trips
 
 # Tech Stack
 - To be determined.
