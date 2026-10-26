@@ -23,3 +23,12 @@
 ## Log Scope
 
 This log currently records Manar's AI use for Milestone 2. Other team members should add their actual AI use, if any, before submission.
+
+## Entry 3: Commit Message Assistance
+
+- Member: Manar (ManarAlanzi0)
+- Date: 2026-10-26
+- Tool: GitHub Copilot
+- Purpose: Suggest a commit message and description for the AI log scope update.
+- AI assistance: Suggested wording for the commit title and extended description.
+- Human contribution: Selected and submitted the commit message through GitHub.
