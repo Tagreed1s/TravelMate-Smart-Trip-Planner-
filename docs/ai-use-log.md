@@ -20,3 +20,6 @@
 - AI assistance: Suggested an issue title, explained the submission table fields, and drafted this Markdown log.
 - Human contribution: Created issue #9 and entered the documentation through the GitHub interface.
 - Responsibility: The team is responsible for checking the accuracy and completeness of this log.
+## Log Scope
+
+This log currently records Manar's AI use for Milestone 2. Other team members should add their actual AI use, if any, before submission.
