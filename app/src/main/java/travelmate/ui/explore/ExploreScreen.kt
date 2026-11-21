@@ -37,7 +37,7 @@ import com.travelmate.ui.theme.Spacing
 import com.travelmate.ui.theme.TravelMateTheme
 
 /**
- * Route: explore (home tab). Destination list from Firebase with live search.
+ * Route: explore(home tab). Destination list from Firebase with live search.
  * "Plan" on a card opens Create Trip; the avatar opens Profile.
  */
 @Composable

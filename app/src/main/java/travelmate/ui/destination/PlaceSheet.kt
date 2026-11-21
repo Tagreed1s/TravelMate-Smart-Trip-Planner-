@@ -38,7 +38,7 @@ import com.travelmate.ui.theme.Spacing
 import com.travelmate.ui.theme.TMShapes
 import com.travelmate.ui.theme.TravelMateTheme
 
-/** Place details opened from Highlights: photo, description, hours, visit length, price, and a heart to save it. */
+/**Place details opened from Highlights: photo, description, hours, visit length, price, and a heart to save it. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun PlaceSheet(

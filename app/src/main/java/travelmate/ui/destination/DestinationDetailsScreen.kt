@@ -45,7 +45,7 @@ import com.travelmate.ui.theme.Spacing
 import com.travelmate.ui.theme.TravelMateTheme
 
 /**
- * Route: destination/{destinationId}. Gallery, rating, stats, About, filterable Highlights and Tips,
+ * Route:destination/{destinationId}. Gallery, rating, stats, About, filterable Highlights and Tips,
  * with Save and Plan a trip pinned at the bottom (as in the Milestone 2 design).
  */
 @Composable

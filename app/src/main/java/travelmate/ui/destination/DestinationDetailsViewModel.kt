@@ -26,7 +26,7 @@ import kotlinx.coroutines.launch
 data class DestinationDetailsUiState(
     val destination: Destination? = null,
     val places: List<Place> = emptyList(),
-    /** null = All. */
+    /** null= All. */
     val filter: PlaceType? = null,
     val aboutExpanded: Boolean = false,
     val tipsExpanded: Boolean = false,

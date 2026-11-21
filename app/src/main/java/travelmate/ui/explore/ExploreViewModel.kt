@@ -23,7 +23,7 @@ data class ExploreUiState(
     val query: String = "",
     val all: List<Destination> = emptyList(),
     val filtered: List<Destination> = emptyList(),
-    /** Ids of the destinations the user saved (filled hearts). */
+    /**Ids of the destinations the user saved (filled hearts). */
     val favoriteIds: Set<String> = emptySet(),
     val loading: Boolean = true,
     val error: String? = null,

@@ -50,7 +50,7 @@ import com.travelmate.ui.components.TMChip
 import com.travelmate.ui.theme.Spacing
 import com.travelmate.ui.theme.TravelMateTheme
 
-/** 320 dp image pager with scrim, page dots, a glass back button and the save (heart) button. */
+/**320 dp image pager with scrim, page dots, a glass back button and the save (heart) button. */
 @Composable
 fun DestinationHero(
     destination: Destination,
