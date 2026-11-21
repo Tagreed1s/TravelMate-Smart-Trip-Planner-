@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TravelMate"
+rootProject.name = "TRAVELMATE"
 include(":app")
- 

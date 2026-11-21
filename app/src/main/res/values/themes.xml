@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.TravelMate" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Window theme only; the UI is themed by TravelMateTheme in Compose. -->
+    <style name="Theme.TravelMate" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
 </resources>
