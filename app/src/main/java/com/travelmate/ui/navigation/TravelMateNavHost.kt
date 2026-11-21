@@ -16,11 +16,11 @@ import com.travelmate.ui.screens.auth.ForgotPasswordScreen
 import com.travelmate.ui.screens.auth.LoginScreen
 import com.travelmate.ui.screens.auth.SignUpScreen
 import com.travelmate.ui.screens.cost.TripCostSummaryScreen
-import com.travelmate.ui.screens.createtrip.CreateTripScreen
+import com.travelmate.ui.screens.createtrips.CreateTripScreen
 import com.travelmate.ui.screens.destination.DestinationDetailsScreen
 import com.travelmate.ui.screens.explore.ExploreScreen
 import com.travelmate.ui.screens.itinerary.DailyItineraryScreen
-import com.travelmate.ui.screens.map.MapScreen
+import com.travelmate.ui.map.MapScreen
 import com.travelmate.ui.screens.profile.ProfileScreen
 import com.travelmate.ui.screens.saved.SavedScreen
 import kotlinx.coroutines.flow.distinctUntilChanged

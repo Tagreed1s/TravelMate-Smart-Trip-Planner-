@@ -60,7 +60,7 @@ import com.travelmate.ui.components.TMPrimaryButton
 import com.travelmate.ui.components.TMSecondaryButton
 import com.travelmate.ui.components.TMTextField
 import com.travelmate.ui.components.TMTopBar
-import com.travelmate.ui.screens.addactivity.AddActivitySheet
+import com.travelmate.ui.addactivity.AddActivitySheet
 import com.travelmate.ui.theme.AmbientBackground
 import com.travelmate.ui.theme.NumberStyle
 import com.travelmate.ui.theme.Spacing
